@@ -13,7 +13,6 @@
 <body>
 <style>
     body{
-        /*background-image: url("https://www.scnsoft.com/blog-pictures/ecommerce/auction-website.png");*/
         background-color: pink;
     }
 </style>

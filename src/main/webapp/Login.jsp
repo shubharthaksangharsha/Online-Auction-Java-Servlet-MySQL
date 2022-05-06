@@ -19,7 +19,9 @@
     Enter password : <input type="password" name="pass"><br>
     <input type="submit" value="Login">
     <button> <a href="index.jsp" > Back</a></button>
+    <button> <a href="reset.jsp" > Forget Password</button>
 </form>
+
 <%--<a href="hello-servlet">Hello Servlet</a>--%>
 </body>
 </html>
